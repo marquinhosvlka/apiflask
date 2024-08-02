@@ -2,8 +2,7 @@ Flask
 scikit-learn
 numpy
 flask-cors
-Werkzeug
-Pillow
-opencv-python
+werkzeug
 fer
+opencv-python-headless
 tensorflow
