@@ -2,7 +2,8 @@ Flask
 scikit-learn
 numpy
 flask-cors
-werkzeug
+Werkzeug
+tensorflow
+tensorflow-hub
 fer
 opencv-python-headless
-tensorflow
