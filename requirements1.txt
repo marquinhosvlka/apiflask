@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+numpy
+flask-cors
+Werkzeug
+tensorflow
+tensorflow-hub
+fer
+opencv-python-headless
