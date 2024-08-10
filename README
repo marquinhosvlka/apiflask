@@ -1,0 +1,10 @@
+
+gcloud builds submit --tag gcr.io/apiopencv/gemini
+Redeploy o Serviço:
+
+
+gcloud run deploy gemini \
+  --image gcr.io/apiopencv/gemini \
+  --platform managed \
+  --region southamerica-east1 \
+  --allow-unauthenticated
